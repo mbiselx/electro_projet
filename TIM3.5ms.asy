@@ -1,0 +1,14 @@
+Version 4
+SymbolType BLOCK
+LINE Normal -39 -15 -56 -15
+LINE Normal -39 -28 -39 -15
+LINE Normal -24 -28 -39 -28
+RECTANGLE Normal -80 -40 80 40
+TEXT -25 27 Left 1 3.5 ms
+WINDOW 0 0 -40 Bottom 2
+PIN 80 0 RIGHT 8
+PINATTR PinName OUT
+PINATTR SpiceOrder 1
+PIN -80 0 LEFT 8
+PINATTR PinName TRIG
+PINATTR SpiceOrder 2

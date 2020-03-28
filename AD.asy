@@ -1,0 +1,10 @@
+Version 4
+SymbolType BLOCK
+RECTANGLE Normal 32 32 -32 -32
+TEXT -15 -1 Left 1 A/D
+PIN -32 0 NONE 8
+PINATTR PinName V_in
+PINATTR SpiceOrder 1
+PIN 32 0 NONE 8
+PINATTR PinName V_out
+PINATTR SpiceOrder 2

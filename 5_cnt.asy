@@ -1,0 +1,17 @@
+Version 4
+SymbolType BLOCK
+RECTANGLE Normal -64 -40 64 72
+TEXT -48 16 Left 1 5 counter
+WINDOW 0 0 -40 Bottom 2
+PIN -64 48 LEFT 8
+PINATTR PinName CNT
+PINATTR SpiceOrder 1
+PIN -64 -16 LEFT 8
+PINATTR PinName RESET
+PINATTR SpiceOrder 2
+PIN 64 -16 RIGHT 8
+PINATTR PinName 5
+PINATTR SpiceOrder 3
+PIN 64 48 RIGHT 8
+PINATTR PinName >5
+PINATTR SpiceOrder 4
