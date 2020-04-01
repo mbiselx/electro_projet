@@ -1,19 +1,19 @@
 Version 4
 SymbolType BLOCK
-LINE Normal -17 -12 -25 -12
-LINE Normal -17 -21 -17 -12
-LINE Normal -10 -21 -17 -21
-LINE Normal 0 27 -11 12
-LINE Normal 8 12 0 27
-LINE Normal -7 18 -5 14
-LINE Normal -3 18 -7 18
-LINE Normal 5 17 3 14
-LINE Normal 1 18 5 17
+LINE Normal -17 5 -25 5
+LINE Normal -17 -4 -17 5
+LINE Normal -10 -4 -17 -4
+LINE Normal 18 7 7 -8
+LINE Normal 26 -8 18 7
+LINE Normal 11 -2 13 -6
+LINE Normal 15 -2 11 -2
+LINE Normal 23 -3 21 -6
+LINE Normal 19 -2 23 -3
 RECTANGLE Normal -32 -32 32 32
-ARC Normal 16 48 -16 16 5 17 -7 18
-PIN -32 0 LEFT 8
+ARC Normal 34 29 2 -4 23 -3 11 -2
+PIN -32 0 NONE 8
 PINATTR PinName T
 PINATTR SpiceOrder 1
-PIN 32 0 RIGHT 8
+PIN 32 0 NONE 8
 PINATTR PinName Q
 PINATTR SpiceOrder 2
