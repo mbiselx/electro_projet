@@ -20,7 +20,7 @@ WINDOW 0 48 -32 Left 2
 WINDOW 3 47 24 Left 2
 SYMATTR Value irlr_u8259pbf
 SYMATTR Prefix X
-SYMATTR ModelFile C:\Users\Michael Biselx\Documents\LTspiceXVII\Projet Elec\Rendu\Infineon-Spice File IRLR8259 IRLU8259-SM-v01_00-EN.spi
+SYMATTR ModelFile .\Infineon-Spice File IRLR8259 IRLU8259-SM-v01_00-EN.spi
 PIN 32 -48 NONE 8
 PINATTR PinName 1
 PINATTR SpiceOrder 1
